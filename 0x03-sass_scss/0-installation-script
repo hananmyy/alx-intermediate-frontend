@@ -1,0 +1,14 @@
+1. Initialized the project directory:
+   - Created folder: 0x03-sass_scss
+
+2. Set up Node.js environment:
+   - Confirmed Node version via terminal (Node v20.16)
+
+3. Initialized npm:
+   - Ran: npm init -y
+   - Created package.json file
+
+4. Installed Sass:
+   - Ran: npm install sass@latest --save-dev
+   - Installed Sass successfully and added it to devDependencies
+
